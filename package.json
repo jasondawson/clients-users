@@ -1,0 +1,24 @@
+{
+  "name": "clients-users",
+  "version": "1.0.0",
+  "description": "Clients and Users\r =====================",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasondawson/clients-users.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasondawson/clients-users/issues"
+  },
+  "homepage": "https://github.com/jasondawson/clients-users",
+  "dependencies": {
+    "body-parser": "^1.11.0",
+    "express": "^4.11.2"
+  }
+}
